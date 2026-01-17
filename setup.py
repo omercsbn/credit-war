@@ -10,12 +10,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="credit-war",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Ömercan Sabun",
+    author_email="omercansabun@icloud.com",
     description="A deterministic multi-agent strategic environment for financial risk modeling",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/creditwar",
+    url="https://github.com/omercsbn/credit-war",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

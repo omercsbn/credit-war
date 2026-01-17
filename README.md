@@ -41,7 +41,7 @@ Unlike stochastic simulations or data-driven approaches, CREDIT WAR provides a t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CREDITWAR.git
+git clone https://github.com/omercsbn/credit-war.git
 cd CREDITWAR
 
 # Create virtual environment
@@ -583,9 +583,9 @@ If you use CREDIT WAR in academic work, please cite:
 ```bibtex
 @misc{creditwar2026,
   title={CREDIT WAR: A Deterministic Strategic Environment for Multi-Agent Reinforcement Learning in Financial Risk Modeling},
-  author={[Your Name]},
+  author={Ömercan Sabun},
   year={2026},
-  howpublished={\url{https://github.com/yourusername/creditwar}}
+  howpublished={\url{https://github.com/omercsbn/credit-war}}
 }
 ```
 
@@ -611,8 +611,8 @@ Contributions are welcome! Please:
 ## Contact
 
 For questions, issues, or collaboration inquiries:
-- GitHub Issues: [Repository Issues]
-- Email: [Your Email]
+- GitHub Issues: [Repository Issues](https://github.com/omercsbn/credit-war/issues)
+- Email: omercansabun@icloud.com
 
 ---
 

@@ -1,0 +1,16 @@
+# Reinforcement Learning Dependencies for CREDIT WAR
+# Install with: pip install -r requirements_rl.txt
+
+# Core RL framework
+stable-baselines3>=2.0.0
+
+# Gymnasium (new name for gym)
+gymnasium>=0.29.0
+
+# PyTorch (CPU version - for GPU: see PyTorch website)
+torch>=2.0.0
+
+# Additional dependencies
+tensorboard>=2.14.0  # For training visualization
+matplotlib>=3.7.0    # For plotting
+seaborn>=0.12.0      # For enhanced plots

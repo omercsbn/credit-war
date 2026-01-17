@@ -1,0 +1,812 @@
+{
+  "bayesian_vs_evolutionary": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "bayesian_vs_grimtrigger": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "bayesian_vs_metalearner": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "bayesian_vs_minimax": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "bayesian_vs_nash": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "bayesian_vs_predator": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "bayesian_vs_switcher": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "bayesian_vs_titfortat": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "bayesian_vs_zerosum": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "evolutionary_vs_bayesian": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "evolutionary_vs_grimtrigger": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "evolutionary_vs_metalearner": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "evolutionary_vs_minimax": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "evolutionary_vs_nash": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "evolutionary_vs_predator": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "evolutionary_vs_switcher": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "evolutionary_vs_titfortat": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "evolutionary_vs_zerosum": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "grimtrigger_vs_bayesian": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "grimtrigger_vs_evolutionary": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "grimtrigger_vs_metalearner": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "grimtrigger_vs_minimax": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "grimtrigger_vs_nash": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "grimtrigger_vs_predator": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "grimtrigger_vs_switcher": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "grimtrigger_vs_titfortat": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "grimtrigger_vs_zerosum": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "metalearner_vs_bayesian": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "metalearner_vs_evolutionary": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "metalearner_vs_grimtrigger": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "metalearner_vs_minimax": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "metalearner_vs_nash": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "metalearner_vs_predator": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "metalearner_vs_switcher": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "metalearner_vs_titfortat": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "metalearner_vs_zerosum": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "minimax_vs_bayesian": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "minimax_vs_evolutionary": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "minimax_vs_grimtrigger": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "minimax_vs_metalearner": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "minimax_vs_nash": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "minimax_vs_predator": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "minimax_vs_switcher": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "minimax_vs_titfortat": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "minimax_vs_zerosum": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "nash_vs_bayesian": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "nash_vs_evolutionary": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "nash_vs_grimtrigger": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "nash_vs_metalearner": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "nash_vs_minimax": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "nash_vs_predator": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "nash_vs_switcher": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "nash_vs_titfortat": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "nash_vs_zerosum": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "predator_vs_bayesian": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "predator_vs_evolutionary": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "predator_vs_grimtrigger": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "predator_vs_metalearner": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "predator_vs_minimax": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "predator_vs_nash": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "predator_vs_switcher": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "predator_vs_titfortat": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "predator_vs_zerosum": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "switcher_vs_bayesian": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "switcher_vs_evolutionary": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "switcher_vs_grimtrigger": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "switcher_vs_metalearner": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "switcher_vs_minimax": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "switcher_vs_nash": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "switcher_vs_predator": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "switcher_vs_titfortat": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "switcher_vs_zerosum": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "titfortat_vs_bayesian": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "titfortat_vs_evolutionary": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "titfortat_vs_grimtrigger": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "titfortat_vs_metalearner": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "titfortat_vs_minimax": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "titfortat_vs_nash": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "titfortat_vs_predator": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  },
+  "titfortat_vs_switcher": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "titfortat_vs_zerosum": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "zerosum_vs_bayesian": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "zerosum_vs_evolutionary": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "zerosum_vs_grimtrigger": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "zerosum_vs_metalearner": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "zerosum_vs_minimax": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "zerosum_vs_nash": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "zerosum_vs_predator": {
+    "wins": 0,
+    "losses": 50,
+    "draws": 0,
+    "win_rate": 0.0,
+    "loss_rate": 100.0,
+    "draw_rate": 0.0,
+    "avg_reward": -1.0
+  },
+  "zerosum_vs_switcher": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 50,
+    "win_rate": 0.0,
+    "loss_rate": 0.0,
+    "draw_rate": 100.0,
+    "avg_reward": 0.0
+  },
+  "zerosum_vs_titfortat": {
+    "wins": 50,
+    "losses": 0,
+    "draws": 0,
+    "win_rate": 100.0,
+    "loss_rate": 0.0,
+    "draw_rate": 0.0,
+    "avg_reward": 1.0
+  }
+}
